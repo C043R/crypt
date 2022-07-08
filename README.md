@@ -1,5 +1,7 @@
 Encryption / Decryption  & hash cracking program. 
 
+Beta Version .
+
 ![crypt](https://user-images.githubusercontent.com/96727508/178038344-b80e6498-ee57-488e-b451-acdc8b861325.png)
 
 
